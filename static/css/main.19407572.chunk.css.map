@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CAElB,iBAAkB,CAClB,wBAA6B,CAE7B,sCAAyC,CACzC,cAAe","file":"main.19407572.chunk.css","sourcesContent":["body {\n  padding: 20px 50px;\n\n  text-align: center;\n  background-color: yellowgreen;\n\n  font-family: Arial, Helvetica, sans-serif;\n  font-size: 22px;\n}\n"]}
